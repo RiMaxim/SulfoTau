@@ -5,4 +5,3 @@
 5. Counting sponge-associated bacteria capable of metabolizing sulfoacetate and taurine (Timing variable)
 6. The occasionally sponge-associated group versus the control group (Timing 8 mins)
 7. Identification of Genes Encoding Tripartite ATP-Independent Periplasmic Transporters (Timing Variable)
-8. 
